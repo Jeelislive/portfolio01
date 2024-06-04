@@ -81,7 +81,7 @@ const About: NextPage = () => {
                       </div>
                     </div>
                     <div className="skill-item padd-15">
-                      <h5>ReactJS, NodeJS, EXPRESS, MongoDB</h5>
+                      <h5>React, NodeJS, EXPRESS</h5>
                       <div className="progress">
                         <div className="progress-in" style={{ width: "85%" }} />
                         <div className="skill-percent">85%</div>
@@ -89,14 +89,14 @@ const About: NextPage = () => {
                     </div>
 
                     <div className="skill-item padd-15">
-                      <h5>Html5</h5>
+                      <h5>MongoDB</h5>
                       <div className="progress">
                         <div className="progress-in" style={{ width: "80%" }} />
                         <div className="skill-percent">80%</div>
                       </div>
                     </div>
                     <div className="skill-item padd-15">
-                      <h5>Css3</h5>
+                      <h5>Html5, Css3</h5>
                       <div className="progress">
                         <div className="progress-in" style={{ width: "90%" }} />
                         <div className="skill-percent">90%</div>
