@@ -16,7 +16,7 @@ const Sidebar = () => {
 
   const pathUrl = usePathname();
 
-  return (  
+  return (
     <aside className={`aside ${open ? "open" : ""}`}>
       <div onClick={handleOpen} className="nav-toggler">
         <span />
@@ -57,7 +57,7 @@ const Sidebar = () => {
               <i className="fa fa-briefcase" /> Projects
             </Link>
           </li>
-         
+
           <li onClick={handleClose}>
             <Link
               href="/contact"
