@@ -91,7 +91,7 @@ const About: NextPage = () => {
                         <div className="skill-percent">85%</div>
                       </div>
                     </div>
-                   
+
                     <div className="skill-item padd-15">
                       <h5>Html5</h5>
                       <div className="progress">
@@ -106,7 +106,7 @@ const About: NextPage = () => {
                         <div className="skill-percent">90%</div>
                       </div>
                     </div>
-                    
+
                     <div className="skill-item padd-15">
                       <h5>Bootstrap</h5>
                       <div className="progress">
@@ -149,7 +149,7 @@ const About: NextPage = () => {
                             Bechlor of Engineering in Information Technology
                           </h4>
                           <p className="timeline-text">
-                            Since 2022 I started My College. Now 
+                            Since 2022 I started My College. Now
                             I am a 4th Sem Student At Vishwakarma
                             Goverment Engineering College - Chandkheda, Ahmedabad
                           </p>
@@ -188,9 +188,9 @@ const About: NextPage = () => {
                           <h4 className="timeline-title">Techathon - GatewayGroupofCompany</h4>
                           <p className="timeline-text">
                             Zoom meeting App <br></br>
-I'm new to PHP and Laravel, and my interest in backend development began during a 36-hour hackathon at
-Gateway Group of Companies in Ahmedabad. I played a key role in creating and debugging an online meeting
-application, which we successfully presented to a panel of judges.
+                            I'm new to PHP and Laravel, and my interest in backend development began during a 36-hour hackathon at
+                            Gateway Group of Companies in Ahmedabad. I played a key role in creating and debugging an online meeting
+                            application, which we successfully presented to a panel of judges.
                           </p>
                         </div>
                         {/* Timeline Item end */}
@@ -207,7 +207,7 @@ application, which we successfully presented to a panel of judges.
                         </div>
                         {/* Timeline Item end */}
                         {/* Timeline Item */}
-                        
+
                         {/* Timeline Item end */}
                       </div>
                     </div>
