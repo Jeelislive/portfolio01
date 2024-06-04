@@ -188,7 +188,7 @@ const About: NextPage = () => {
                           <h4 className="timeline-title">Techathon - GatewayGroupofCompany</h4>
                           <p className="timeline-text">
                             Zoom meeting App <br></br>
-                            I'm new to PHP and Laravel, and my interest in backend development began during a 36-hour hackathon at
+                            I am new to PHP and Laravel, and my interest in backend development began during a 36-hour hackathon at
                             Gateway Group of Companies in Ahmedabad. I played a key role in creating and debugging an online meeting
                             application, which we successfully presented to a panel of judges.
                           </p>
