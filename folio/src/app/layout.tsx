@@ -11,6 +11,9 @@ import ThemeSwitch from "@/components/panel/ThemeSwitch";
 
 const inter = Inter({ subsets: ["latin"] });
 
+<link rel="shortcut icon" href="folio/public/logo.jpg" />
+
+
 export const metadata: Metadata = {
   title: "Jeel Rupareliya",
   description: "rj404",
