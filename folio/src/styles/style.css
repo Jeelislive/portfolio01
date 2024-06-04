@@ -1193,8 +1193,7 @@ select {
     max-width: 100%;
   }
   .portfolio .portfolio-item-inner .portfolio-img img {
-
-  height: 14rem;
+  height: 12.5rem;
 }
 
   @media (max-width: 768px) { /* Adjust breakpoint as needed */
