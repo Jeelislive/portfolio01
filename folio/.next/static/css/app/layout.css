@@ -1072,6 +1072,14 @@ select {
     flex: 0 0 100%;
     max-width: 100%;
   }
+
+  @media (max-width: 768px) { /* Adjust breakpoint as needed */
+  .about .about-content .personal-info .info-item p {
+    word-wrap: break-word; /* Allow words to break */
+    overflow-wrap: break-word; /* Allow long words to break */
+  }
+}
+
   .portfolio .portfolio-filter button {
     margin-bottom: 10px;
   }
@@ -1131,7 +1139,6 @@ select {
     padding: 8px 16px;
   }
 }
-
 /*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[2].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[11].oneOf[2].use[2]!./node_modules/next/font/google/target.css?{"path":"src\\app\\layout.tsx","import":"Inter","arguments":[{"subsets":["latin"]}],"variableName":"inter"} ***!
   \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
