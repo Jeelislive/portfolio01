@@ -30,10 +30,13 @@ const Project: NextPage = () => {
                 <div className="portfolio-info">
                   <h4>TODO App Using MERN</h4>
                   <p>This is a TODO app built with the MERN stack.</p>
-                  <a href="https://github.com/Jeelislive/mytodoapp" target="_blank" className="github-link">
-                    <i className="fa fa-github"></i> View Code
+                  <a href="https://github.com/Jeelislive/todo-fe" target="_blank" className="github-link">
+                    <i className="fa fa-github"></i> View F-Code
                   </a>
-                  <a href="https://mytodoapp-mu.vercel.app/" target="_blank" className="github-link">
+                  <a href="https://github.com/Jeelislive/todo-be" target="_blank" className="github-link">
+                    <i className="fa fa-github"></i> View B-Code
+                  </a>
+                  <a href="https://todo-fe-mu.vercel.app/" target="_blank" className="github-link">
                     <i className="fa fa-github"></i> Live
                   </a>
                 </div>
